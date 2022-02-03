@@ -1,38 +1,27 @@
-# Create an Angular Dropdown List Using Angular CLI
+# AngularDropdownlist
 
-A quick start Angular project that shows how to add the Syncfusion Angular Dropdown List to an Angular application. This project also includes a code snippet to populate JSON data and remote data sources, how to sort the data items and how to set a custom height and width for the Dropdown List pop-up.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.0.
 
-Examples: https://ej2.syncfusion.com/angular/demos/#/material/drop-down-list/default
- 
-Documentation: https://ej2.syncfusion.com/angular/documentation/drop-down-list/getting-started/ 
+## Development server
 
-# Project pre-requisites
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-Make sure that you have the compatible versions of TypeScript and Angular in your machine before starting to work on this project.
+## Code scaffolding
 
-Angular 4+
-TypeScript 2.6+
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-# How to run this application?
+## Build
 
-To run this application, you need to first clone the create-an-angular-dropdown-list-using-angular-cli repository and then navigate to its appropriate path where it has been in your system.
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-To do so, open the command prompt and run the below commands one after the other.
+## Running unit tests
 
-git clone https://github.com/SyncfusionExamples/create-an-angular-dropdown-list-using-angular-cli dropdownlist-example
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-cd dropdownlist-example
+## Running end-to-end tests
 
-# Installing
+Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-Once done with downloading, next you need to install the necessary packages required to run this application locally. The npm install command will install all the needed angular packages into your current project and to do so, run the below command.
+## Further help
 
-npm install
-
-# Running on development server
-
-Run ng serve command for a dev server. Navigate to http://localhost:4200/. The app will automatically reload if you change any of the source files.
-
-# Further help
-To get more help on the Angular CLI use ng help or go check out the Angular CLI README.
-
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
