@@ -23,3 +23,16 @@ git clone https://github.com/SyncfusionExamples/create-an-angular-dropdown-list-
 
 cd dropdownlist-example
 
+# Installing
+
+Once done with downloading, next you need to install the necessary packages required to run this application locally. The npm install command will install all the needed angular packages into your current project and to do so, run the below command.
+
+npm install
+
+# Running on development server
+
+Run ng serve command for a dev server. Navigate to http://localhost:4200/. The app will automatically reload if you change any of the source files.
+
+# Further help
+To get more help on the Angular CLI use ng help or go check out the Angular CLI README.
+
